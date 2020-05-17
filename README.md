@@ -3,5 +3,5 @@
 
  ## Library dependencies
 
- Encoder library by Paul Stoffregen https://github.com/PaulStoffregen/Encoder
+ Encoder library by Paul Stoffregen https://github.com/PaulStoffregen/Encoder \
  HID by Nico Hood https://github.com/NicoHood/HID
